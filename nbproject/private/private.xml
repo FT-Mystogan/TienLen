@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>fileLog/log.txt</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/Room.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/test/Server.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/client/Login.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/db/RoomDB.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/Client.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/db/UserDB.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/Card.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/Deck.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/Player.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/client/GoRoom.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/dto/PlayerData.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/PlayedPile.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/client/ClientApplication.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/tools/GameManager.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/thread/ServerSendingThread.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/client/HomePage.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/client/RoomAdd.java</file>
+            <file>file:/D:/Nam4_Ky1/LTM/test/src/main/db/ConnectDB.java</file>
+        </group>
+    </open-files>
+</project-private>
